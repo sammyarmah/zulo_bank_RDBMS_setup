@@ -1,4 +1,5 @@
 **CASE STUDY FOR ZULO BANK**
+
 This case study provides a comprehensive overview of
 the process involved in database and data warehouse
 modeling for Zulo Bank, aimed at beginner data
@@ -16,6 +17,7 @@ on the practical application of these concepts to solve
 real-world banking data management challenges.
 
 **BUSINESS PROBLEM STATEMENT**
+
 Zulo Bank seeks to overhaul its data
 management system to enhance
 efficiency, improve data quality, and
@@ -31,6 +33,7 @@ ensuring seamless data integration,
 reporting, and analytics.     
 
 **TECH STACK**
+
 A. Python:
 Used for data processing, analysis, and synthetic data generation. Python's extensive libraries (Pandas)
 facilitate efficient data manipulation for testing and development.
@@ -40,6 +43,7 @@ B. SQL (Structured Query Languages)
 C. Pgadmin (Postgres Server)
 
 **PROJECT SCOPE**
+
 1. Database Design:
 Construct a normalized relational database schema for operational use, covering entities such as
 customers, accounts, transactions, and loans. The design process includes identifying primary and foreign
